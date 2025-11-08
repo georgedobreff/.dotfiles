@@ -4,21 +4,21 @@
 # We fetch the official list from unicode.org, cache it and parse to fuzzel
 
 EMOJI_FILE="$HOME/.cache/emoji-list.txt"
-EMOJI_URL="https://www.unicode.org/Public/emoji/latest/emoji-test.txt"
+EMOJI_URL="https://unicode.org/Public/emoji/11.0/emoji-test.txt"
 
 mkdir -p "$(dirname "$EMOJI_FILE")"
 
 # Download the emoji list if it doesn't exist
-if [ ! -f "$EMOJI_FILE" ]; then
+if [ ! -s "$EMOJI_FILE" ]; then
   echo "Downloading emoji list..."
-  curl -s "$EMOJI_URL" -o "$EMOJI_FILE"
+  curl -fs "$EMOJI_URL" -o "$EMOJI_FILE"
 fi
 
 # We grab only fully-qualified emojis and up to version 5.
 get_emojis() {
   awk -F'# ' '/fully-qualified|component/ && /^[^#]/ {
     if (match($2, / E([0-9\.]+)/, arr)) {
-        if (arr[1] + 0 <= 5.0) {
+        if (arr[1] + 0 <= 11.0) {
             sub(/ E[0-9\.]+ /, " ");
             print $2;
         }
@@ -36,4 +36,3 @@ if [ -n "$selected_line" ]; then
   echo -n "$selected_emoji" | wl-copy
   notify-send "Emoji Picker" "Copied $selected_emoji to clipboard" 2>/dev/null || true
 fi
-

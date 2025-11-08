@@ -1,38 +1,36 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# Emoji Picker using fuzzel — Fixed 2025 edition
 
-# Emoji-picker using fuzzel // Revised by Witcher
-# We fetch the official list from unicode.org, cache it and parse to fuzzel
-
-EMOJI_FILE="$HOME/.cache/emoji-list.txt"
-EMOJI_URL="https://unicode.org/Public/emoji/11.0/emoji-test.txt"
+EMOJI_FILE="$HOME/.cache/emojis.txt"
 
 mkdir -p "$(dirname "$EMOJI_FILE")"
 
-# Download the emoji list if it doesn't exist
+# Ensure the emoji file exists
 if [ ! -s "$EMOJI_FILE" ]; then
-  echo "Downloading emoji list..."
-  curl -fs "$EMOJI_URL" -o "$EMOJI_FILE"
+  echo "Emoji list not found at $EMOJI_FILE. Please check the file and try again."
+  exit 1
 fi
 
-# We grab only fully-qualified emojis and up to version 5.
 get_emojis() {
-  awk -F'# ' '/fully-qualified|component/ && /^[^#]/ {
-    if (match($2, / E([0-9\.]+)/, arr)) {
-        if (arr[1] + 0 <= 11.0) {
-            sub(/ E[0-9\.]+ /, " ");
-            print $2;
-        }
-    }
-}' "$EMOJI_FILE"
+  # Read the emoji file and print both the emoji and its name (separated by a space)
+  cat "$EMOJI_FILE"
 }
 
-# Use fuzzel to display emojis
 selected_line=$(get_emojis | fuzzel --dmenu --prompt="🔍 " --placeholder="Search emojis...")
 
-# Copy to clipboard if an emoji was selected
 if [ -n "$selected_line" ]; then
-  selected_emoji=$(echo "$selected_line" | cut -d' ' -f1)
+  # Extract the emoji (the first word in the line) to copy it
+  selected_emoji=$(echo "$selected_line" | awk '{print $1}')
 
-  echo -n "$selected_emoji" | wl-copy
-  notify-send "Emoji Picker" "Copied $selected_emoji to clipboard" 2>/dev/null || true
+  # Copy the emoji to the clipboard using the appropriate tool
+  if command -v wl-copy >/dev/null 2>&1; then
+    echo -n "$selected_emoji" | wl-copy
+  elif command -v pbcopy >/dev/null 2>&1; then
+    echo -n "$selected_emoji" | pbcopy
+  fi
+
+  # Notify the user about the copied emoji
+  if command -v notify-send >/dev/null 2>&1; then
+    notify-send "Emoji Picker" "Copied $selected_emoji to clipboard"
+  fi
 fi

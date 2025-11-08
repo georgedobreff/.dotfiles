@@ -1,0 +1,318 @@
+😀 Grinning Face
+😁 Beaming Face with Smiling Eyes
+😂 Face with Tears of Joy
+🤣 Rolling on the Floor Laughing
+😃 Grinning Face with Big Eyes
+😄 Grinning Face with Smiling Eyes
+😅 Grinning Face with Sweat
+😆 Grinning Squinting Face
+😇 Smiling Face with Halo
+😈 Smiling Face with Horns
+😉 Winking Face
+😊 Smiling Face with Smiling Eyes
+😋 Face Savoring Food
+😎 Smiling Face with Sunglasses
+😍 Heart Eyes
+🥰 Smiling Face with Hearts
+😘 Face Blowing a Kiss
+😗 Kissing Face
+😙 Kissing Face with Smiling Eyes
+😚 Kissing Face with Closed Eyes
+😜 Face with Stuck-Out Tongue and Winking Eye
+😝 Face with Stuck-Out Tongue and Tightly Closed Eyes
+😛 Face with Stuck-Out Tongue
+🤗 Hugging Face
+🧐 Face with Monocle
+🤓 Nerd Face
+😎 Smiling Face with Sunglasses
+🤩 Star-Struck
+🥳 Partying Face
+😏 Smirking Face
+😒 Unamused Face
+😞 Disappointed Face
+😔 Pensive Face
+😟 Worried Face
+😕 Confused Face
+🙁 Frowning Face
+😣 Persevering Face
+😖 Confounded Face
+😞 Disappointed Face
+😩 Weary Face
+😫 Tired Face
+🥺 Pleading Face
+😢 Crying Face
+😭 Loudly Crying Face
+😤 Face with Steam from Nose
+🤯 Exploding Head
+😳 Flushed Face
+🥵 Hot Face
+🥶 Cold Face
+😶 Face Without Mouth
+😶‍🌫️ Face in Clouds
+🙄 Face with Rolling Eyes
+😬 Grimacing Face
+🤥 Lying Face
+😔 Pensive Face
+🤧 Sneezing Face
+😷 Face with Medical Mask
+
+---
+
+### **People & Body**
+
+🧑‍🦰 Person: Red Hair
+👩‍🦳 Woman: White Hair
+🧑‍🦳 Person: White Hair
+👨‍🦳 Man: White Hair
+👨‍🦰 Man: Red Hair
+🧑‍🦱 Person: Curly Hair
+🧑‍🦳 Person: White Hair
+👶 Baby
+🧒 Child
+👦 Boy
+👧 Girl
+🧑 Adult
+👨 Man
+👩 Woman
+🧔 Person: Beard
+👱‍♂️ Man: Blond Hair
+👱‍♀️ Woman: Blond Hair
+👨‍🦰 Man: Red Hair
+👩‍🦰 Woman: Red Hair
+🧑‍🦱 Person: Curly Hair
+🧑‍🦳 Person: White Hair
+🧑‍🦲 Person: Bald
+🦸‍♂️ Man Superhero
+🦸‍♀️ Woman Superhero
+🦹‍♂️ Man Supervillain
+🦹‍♀️ Woman Supervillain
+👩‍🦰 Woman with Red Hair
+🦸‍♂️ Man Superhero
+🦹‍♀️ Woman Supervillain
+🧙‍♂️ Man Mage
+🧙‍♀️ Woman Mage
+👨‍🦳 Man with White Hair
+🦳 Person with White Hair
+
+---
+
+### **Animals & Nature**
+
+🐶 Dog Face
+🐱 Cat Face
+🦊 Fox Face
+🐻 Bear Face
+🐼 Panda Face
+🐯 Tiger Face
+🦁 Lion Face
+🐮 Cow Face
+🐷 Pig Face
+🐸 Frog Face
+🐵 Monkey Face
+🙈 See-No-Evil Monkey
+🙉 Hear-No-Evil Monkey
+🙊 Speak-No-Evil Monkey
+🐒 Monkey
+🦓 Zebra
+🦄 Unicorn
+🐴 Horse Face
+🐝 Bee
+🦋 Butterfly
+🐛 Bug
+🦗 Cricket
+🐜 Ant
+🦠 Microbe
+🦞 Lobster
+🦀 Crab
+🦐 Shrimp
+🐟 Fish
+🐠 Tropical Fish
+🐡 Fish
+🦑 Squid
+🐙 Octopus
+🦐 Shrimp
+🐚 Spiral Shell
+
+---
+
+### **Food & Drink**
+
+🍏 Green Apple
+🍎 Red Apple
+🍐 Pear
+🍊 Tangerine
+🍋 Lemon
+🍌 Banana
+🍉 Watermelon
+🍇 Grapes
+🍓 Strawberry
+🍈 Melon
+🍒 Cherries
+🍑 Peach
+🍍 Pineapple
+🥭 Mango
+🍉 Watermelon
+🍊 Orange
+🍋 Lemon
+🍔 Hamburger
+🍟 French Fries
+🍕 Pizza
+🌭 Hot Dog
+🥪 Sandwich
+🌮 Taco
+🌯 Burrito
+🥗 Salad
+🍝 Spaghetti
+🍜 Bowl of Noodles
+🍲 Pot of Food
+🥘 Shallow Pan of Food
+🍛 Curry Rice
+🍚 Rice Ball
+🍙 Rice Cracker
+🍘 Rice Cake
+🍥 Fish Cake with Swirl
+🍡 Dango
+🍢 Shish Kebob
+🍣 Sushi
+🍤 Fried Shrimp
+🍩 Doughnut
+🍪 Cookie
+🍫 Chocolate Bar
+🍬 Candy
+🍭 Lollipop
+🍮 Custard
+🍯 Honey Pot
+🍼 Baby Bottle
+🥛 Glass of Milk
+🍺 Beer Mug
+🍻 Clinking Beer Mugs
+🍷 Wine Glass
+🍸 Cocktail Glass
+🍹 Tropical Drink
+🍾 Bottle with Popping Cork
+🥂 Clinking Glasses
+
+---
+
+### **Travel & Places**
+
+🌍 Earth Globe Europe-Africa
+🌎 Earth Globe Americas
+🌏 Earth Globe Asia-Australia
+🗺️ World Map
+🧭 Compass
+🚗 Car
+🚕 Taxi
+🚙 Sport Utility Vehicle
+🚌 Bus
+🚎 Trolleybus
+🏎️ Racing Car
+🚓 Police Car
+🚑 Ambulance
+🚒 Fire Engine
+🚐 Minibus
+🚚 Delivery Truck
+🚛 Articulated Lorry
+🚜 Tractor
+🛴 Kick Scooter
+🚲 Bicycle
+🏍️ Motorcycle
+🛵 Motor Scooter
+🦽 Manual Wheelchair
+🦼 Motorized Wheelchair
+🚂 Locomotive
+🚆 Train
+🚉 Station
+🚊 Tram
+🚝 Monorail
+🚞 Mountain Railway
+🚋 Railway Car
+🚠 Aerial Tramway
+🚡 Gondola Lift
+🛥️ Motor Boat
+🚤 Speedboat
+🛳️ Passenger Ship
+⛴️ Ferry
+🚢 Ship
+🛶 Canoe
+🛳️ Boat
+🚀 Rocket
+🛰️ Satellite
+🛸 Flying Saucer
+
+---
+
+### **Objects**
+
+📱 Mobile Phone
+💻 Laptop
+🖥️ Desktop Computer
+🖨️ Printer
+⌨️ Keyboard
+🖱️ Computer Mouse
+🖲️ Trackball
+💾 Floppy Disk
+💿 Optical Disk
+📀 DVD
+📼 VHS Tape
+📷 Camera
+📸 Camera with Flash
+📹 Video Camera
+🎥 Movie Camera
+📽️ Film Projector
+🎞️ Film Frames
+📺 Television
+📻 Radio
+🎙️ Studio Microphone
+🎚️ Level Slider
+🎛️ Control Knobs
+📡 Satellite Antenna
+🔋 Battery
+🔌 Electric Plug
+💡 Light Bulb
+🔦 Flashlight
+🕯️ Candle
+💵 Dollar Banknote
+💴 Yen Banknote
+💶 Euro Banknote
+💷 Pound Banknote
+💰 Money Bag
+💳 Credit Card
+📅 Calendar
+📆 Tear-Off Calendar
+🗓️ Spiral Calendar
+📇 Card Index
+🗃️ Card File Box
+🗄️ File Cabinet
+📋 Clipboard
+📂 Open File Folder
+📁 File Folder
+🗂️ Card Index Dividers
+
+---
+
+### **Symbols**
+
+❤️ Red Heart
+🧡 Orange Heart
+💛 Yellow Heart
+💚 Green Heart
+💙 Blue Heart
+💜 Purple Heart
+🖤 Black Heart
+🤍 White Heart
+🤎 Brown Heart
+💔 Broken Heart
+❣️ Heavy Heart Exclamation
+💌 Love Letter
+💘 Heart with Arrow
+💝 Heart with Ribbon
+💖 Sparkling Heart
+💗 Growing Heart
+💓 Beating Heart
+💞 Revolving Hearts
+💕 Two Hearts
+💟 Heart Decoration
+
+---
+

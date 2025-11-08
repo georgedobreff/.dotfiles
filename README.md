@@ -1,6 +1,3 @@
-`git clone --bare https://github.com/georgedobreff/.dotfiles.git $HOME/.dotfiles`
-
-`config checkout`
 
 These are my dotfiles for Omarchy-Mac. Pick and choose to your liking.
 System backups are Asahi Alarm changes. I can't symlink these so manual copy-paste is needed but I've maintained the file paths.

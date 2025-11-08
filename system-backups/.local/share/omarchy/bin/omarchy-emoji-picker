@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Emoji Picker using fuzzel — Fixed 2025 edition
+# Emoji Picker using fuzzel
 
 EMOJI_FILE="$HOME/.cache/emojis.txt"
 
@@ -7,12 +7,11 @@ mkdir -p "$(dirname "$EMOJI_FILE")"
 
 # Ensure the emoji file exists
 if [ ! -s "$EMOJI_FILE" ]; then
-  echo "Emoji list not found at $EMOJI_FILE. Please check the file and try again."
+  echo "Emoji list not found at $EMOJI_FILE."
   exit 1
 fi
 
 get_emojis() {
-  # Read the emoji file and print both the emoji and its name (separated by a space)
   cat "$EMOJI_FILE"
 }
 

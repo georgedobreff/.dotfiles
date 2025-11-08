@@ -1,3 +1,23 @@
+😂 Tears of Joy
+❤️ Red Heart
+😍 Heart Eyes
+😊 Smiling Eyes
+🥺 Pleading Face
+😭 Loudly Crying Face
+🤣 ROFL
+🫩 Bruh
+😎 Sunglasses
+👍 Boomer
+🥰 Smiling Face with Hearts
+💀 Skull
+🙏 Folded Hands
+✨ Sparkles
+🔥 Fire
+🫶 Heart Hands
+👀 Eyes
+------------------------------
+    Smileys & Emotion
+------------------------------
 😀 Grinning Face
 😁 Beaming Face with Smiling Eyes
 😂 Face with Tears of Joy
@@ -55,11 +75,11 @@
 😔 Pensive Face
 🤧 Sneezing Face
 😷 Face with Medical Mask
-
----
-
-### **People & Body**
-
+💀 Skull
+🫩 Face with bags
+------------------------------
+    People
+------------------------------
 🧑‍🦰 Person: Red Hair
 👩‍🦳 Woman: White Hair
 🧑‍🦳 Person: White Hair
@@ -93,11 +113,9 @@
 🧙‍♀️ Woman Mage
 👨‍🦳 Man with White Hair
 🦳 Person with White Hair
-
----
-
-### **Animals & Nature**
-
+------------------------------
+    Animals & Nature
+------------------------------
 🐶 Dog Face
 🐱 Cat Face
 🦊 Fox Face
@@ -132,11 +150,9 @@
 🐙 Octopus
 🦐 Shrimp
 🐚 Spiral Shell
-
----
-
-### **Food & Drink**
-
+------------------------------
+    Food & Drink
+------------------------------
 🍏 Green Apple
 🍎 Red Apple
 🍐 Pear
@@ -191,11 +207,10 @@
 🍹 Tropical Drink
 🍾 Bottle with Popping Cork
 🥂 Clinking Glasses
-
----
-
-### **Travel & Places**
-
+🫟 Splatter
+------------------------------
+    Travel & Places
+------------------------------
 🌍 Earth Globe Europe-Africa
 🌎 Earth Globe Americas
 🌏 Earth Globe Asia-Australia
@@ -239,11 +254,9 @@
 🚀 Rocket
 🛰️ Satellite
 🛸 Flying Saucer
-
----
-
-### **Objects**
-
+------------------------------
+    OBJECTS
+------------------------------
 📱 Mobile Phone
 💻 Laptop
 🖥️ Desktop Computer
@@ -288,11 +301,9 @@
 📂 Open File Folder
 📁 File Folder
 🗂️ Card Index Dividers
-
----
-
-### **Symbols**
-
+------------------------------
+    SYMBOLS
+------------------------------
 ❤️ Red Heart
 🧡 Orange Heart
 💛 Yellow Heart
@@ -314,5 +325,4 @@
 💕 Two Hearts
 💟 Heart Decoration
 
----
 

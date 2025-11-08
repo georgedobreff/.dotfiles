@@ -8,7 +8,7 @@ System backups are Asahi Alarm changes. I can't symlink these so manual copy-pas
 
 #### Customizations & Features
 ##### Gestures & Keybinds
-- Swipe between workspaces horizontally. Swipe up/down with 3 fingers to maximize the active window.
+- Swipe between workspaces horizontally. Swipe up/down with 3 fingers to maximize the active window. Swipe up/down with 4 fingers to enter Fullscreen
 - Swapped left Command key (SUPER) and Control key & added Left Command + Q for quitting the active window.
   - This means you can now Copy-Paste using left Command + C/V, open new browser tab with Command+T etc. It acts as a Control key.
 - Two-finger right click enabled
